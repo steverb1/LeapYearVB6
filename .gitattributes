@@ -1,0 +1,5 @@
+*.frm text eol=crlf
+*.vbg text eol=crlf
+*.vbp text eol=crlf
+*.cls text eol=crlf
+*.config text eol=crlf
